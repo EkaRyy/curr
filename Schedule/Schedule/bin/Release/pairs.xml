@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pairs>
+  <pair>
+    <n>1</n>
+    <text>08:00-09:30</text>
+  </pair>
+  <pair>
+    <n>2</n>
+    <text>09:40-11:10</text>
+  </pair>
+  <pair>
+    <n>3</n>
+    <text>11:20-13:10</text>
+  </pair>
+  <pair>
+    <n>4</n>
+    <text>13:20-14:50</text>
+  </pair>
+  <pair>
+    <n>5</n>
+    <text>15:00-16:30</text>
+  </pair>
+  <pair>
+    <n>6</n>
+    <text>16:40-18:10</text>
+  </pair>
+  <pair>
+    <n>7</n>
+    <text>18:20-19:50</text>
+  </pair>
+</pairs>
+
